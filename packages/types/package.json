@@ -1,0 +1,15 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "@types/passport-discord": "^0.1.6",
+    "passport-discord": "^0.1.4"
+  },
+  "dependencies": {
+    "passport-discord": "^0.1.4",
+    "remove": "^0.1.5"
+  }
+}
